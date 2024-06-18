@@ -1,7 +1,18 @@
 ## Hi there 👋
 
-This page is under construction. More soon!
+Welcome to the Grinde Lab. 
+We are a group of biostatistics and statistical genetics researchers at Macalester College, led by Assistant Professor of Statistics [Kelsey Grinde](https://kegrinde.github.io/).
 
+Current lab members include: 
+- Tina Chen ('25)
+- Katelyn McClure ('26)
+- Sydney Ohr ('26)
+
+Lab alumni and former collaborators include: 
+- Zuofu Huang ('21)
+- Sofia Barragan ('22)
+- AK Hayir ('22)
+   
 <!--
 
 **Here are some ideas to get you started:**
