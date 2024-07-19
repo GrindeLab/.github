@@ -5,13 +5,17 @@ We are a group of biostatistics and statistical genetics researchers at Macalest
 
 Current lab members include: 
 - Tina Chen ('25)
-- Katelyn McClure ('26)
 - Sydney Ohr ('26)
 
 Lab alumni / former student collaborators include: 
-- Zuofu Huang ('21): STEAMcpp [R package](https://github.com/GrindeLab/STEAMcpp)
-- Sofia Barragan ('22): B-ALL [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.5266)
-- AK Hayir ('22): circRNA  [paper](https://www.mdpi.com/1999-4915/14/4/683), [shiny app](https://kblcircosgraph.shinyapps.io/circos/), & [code repository](https://github.com/GrindeLab/circRNA)
+- Zuofu Huang ('21)
+   - Projects: STEAMcpp [R package](https://github.com/GrindeLab/STEAMcpp) 
+- Sofia Barragan ('22):
+   - Projects: B-ALL survival [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.5266)
+- AK Hayir ('22):
+   - Projects: circular RNA [paper](https://www.mdpi.com/1999-4915/14/4/683), [shiny app](https://kblcircosgraph.shinyapps.io/circos/), & [code repository](https://github.com/GrindeLab/circRNA)
+- Katelyn McClure ('26):
+   - Projects: STEAM [R package](https://github.com/GrindeLab/STEAM) v0.2.0 and v0.3.0 updates
    
 <!--
 
