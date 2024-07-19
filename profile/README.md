@@ -8,10 +8,10 @@ Current lab members include:
 - Katelyn McClure ('26)
 - Sydney Ohr ('26)
 
-Lab alumni and former collaborators include: 
-- Zuofu Huang ('21)
-- Sofia Barragan ('22)
-- AK Hayir ('22)
+Lab alumni / former student collaborators include: 
+- Zuofu Huang ('21): STEAMcpp [R package](https://github.com/GrindeLab/STEAMcpp)
+- Sofia Barragan ('22): B-ALL [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cam4.5266)
+- AK Hayir ('22): circRNA  [paper](https://www.mdpi.com/1999-4915/14/4/683), [shiny app](https://kblcircosgraph.shinyapps.io/circos/), & [code repository](https://github.com/GrindeLab/circRNA)
    
 <!--
 
